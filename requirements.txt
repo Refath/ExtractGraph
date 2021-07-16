@@ -6,3 +6,4 @@ sympy
 vpython
 serial
 sklearn
+matplotlib
